@@ -14,8 +14,8 @@ MuseScore - https://musescore.org/
 ## Example
 From page 49 of the scanned book:
 
-<img src="images/Example of page 49.png" width="70%">
+<img src="images/Example of page 49.png" width="90%">
 
 Initial new transcription:
 
-<img src="images/Example of new transcription.png" width="70%">
+<img src="images/Example of new transcription.png" width="90%">
