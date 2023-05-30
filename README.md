@@ -1,12 +1,12 @@
 # "Metodo Moderno para Bandoneon" Transcribed Sheet Music
 <img src="images/Metodo Moderno para Bandoneon.jpg" width="30%" align="right">
 
-This project is to transcribe the sheet music in "Metodo Moderno para Bandoneon" by Carlos Marcucci Y Felix Lipesker using notation software.
+This project is to transcribe the sheet music in "Metodo Moderno para Bandoneon" by Carlos Marcucci Y Felix Lipesker using music notation software.
 
 ## Reason for the Project
-"Metodo Moderno para Bandoneon" is out of print and the only copies online are very badly scanned. However, the way Carlos Marcucci & Felix Lipesker teaches bandoneon should be preserved and celebrated. Because of the bad scan, the sheet music is often times difficult to read. 
+"Metodo Moderno para Bandoneon" is out of print and the only copies online are very badly scanned. However, the way Carlos Marcucci & Felix Lipesker teaches bandoneon should made easier to view by future students. Because of the bad scan, the sheet music is often times difficult to read. 
 
-This is a project to transcribe the sheet music using modern music notation software. The resulting digital version of the sheet music can more easily viewed then the bad scan and farther updated by others. It will also be more legible on tablets or reprinted on paper.
+This is a project to transcribe the sheet music using modern music notation software. The resulting digital version of the sheet music can be more easily viewed farther updated by others. It will also be more legible on tablets or when printed.
 
 ## Project Tools
 MuseScore - https://musescore.org/
