@@ -12,10 +12,10 @@ This is a project to transcribe the sheet music using modern music notation soft
 MuseScore - https://musescore.org/
 
 ## Example
-From page 51 of the scanned book:
+From page 49 of the scanned book:
 
-<img src="images/Example of Scanned Page.png" width="70%">
+<img src="images/Example of Scanned Page.png" width="80%">
 
 Initial new transcription:
 
-<img src="images/Example of new transcription.png" width="70%">
+<img src="images/Example of new transcription.png" width="80%">
