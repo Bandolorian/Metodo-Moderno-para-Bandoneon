@@ -1,4 +1,4 @@
-# Metodo Moderno para Bandoneon Updated Sheet Music
+# "Metodo Moderno para Bandoneon" Transcribed Sheet Music
 <img src="images/Metodo Moderno para Bandoneon.jpg" width="30%" align="right">
 
 This project is to transcribe the sheet music in "Metodo Moderno para Bandoneon" by Carlos Marcucci Y Felix Lipesker using notation software.
