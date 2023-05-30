@@ -6,7 +6,7 @@ This project is to transcribe the sheet music in "Metodo Moderno para Bandoneon"
 ## Reason for the Project
 "Metodo Moderno para Bandoneon" is out of print and the only copies online are very badly scanned. However, the way Carlos Marcucci & Felix Lipesker teaches bandoneon should be preserved and celebrated. Because of the bad scan, the sheet music is often times difficult to read. 
 
-This is a project to transcribe the sheet music using modern music notation software and then have the files available for ease of eletronic viewing on a tablet or printed on paper.
+This is a project to transcribe the sheet music using modern music notation software and then have the files available for ease of electronic viewing on a tablet or printed on paper.
 
 ## Project Tools
 Using Music Score (https://musescore.org/)
