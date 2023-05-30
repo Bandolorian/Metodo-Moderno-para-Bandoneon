@@ -9,7 +9,7 @@ This project is to transcribe the sheet music in "Metodo Moderno para Bandoneon"
 This is a project to transcribe the sheet music using modern music notation software and then have the files available for ease of electronic viewing on a tablet or printed on paper.
 
 ## Project Tools
-Using Music Score (https://musescore.org/)
+MuseScore - https://musescore.org/
 
 ## Example
 From page 51 of the scanned book:
