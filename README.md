@@ -8,6 +8,15 @@ This project is to transcribe the sheet music in "Metodo Moderno para Bandoneon"
 
 This is a project to transcribe the sheet music using modern music notation software. The resulting digital version of the sheet music can be more easily viewed, and if others are interested, farther updated. It will also be more legible on tablets or when printed.
 
+## Newly Transcribed Pages
+Newly transcribed pages in the book are:
+- Pages 49-52, "Escalas Mayores" / "Major Scales"
+
+## Full Book Is Available
+In wanting the book to be usable, I cleaned up all of the pages from the original scan, as best as I could. Inserted the few newly transcribed pages and releasing a complete book. If nothing else, it should be more ledgable overall compared to the original scan. As new transcriptions are done, they will be replacing the original scanned pages.
+
+Starting from 1.x.x and higher, the releases are complete books with all pages.
+
 ## Project Tools
 MuseScore - https://musescore.org/
 
