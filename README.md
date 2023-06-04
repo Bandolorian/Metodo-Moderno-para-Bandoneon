@@ -12,6 +12,7 @@ This is a project to transcribe the sheet music using modern music notation soft
 Newly transcribed pages in the book are:
 - [Pages 49-52](https://github.com/Bandolorian/Metodo-Moderno-para-Bandoneon/blob/main/Transcribed%20Pages/Metodo%20Moderno%20para%20Bandoneon_Page%2049-52.pdf), "Escalas Mayores" / "Major Scales"
 - [Pages 174-175](https://github.com/Bandolorian/Metodo-Moderno-para-Bandoneon/blob/main/Transcribed%20Pages/Metodo%20Moderno%20para%20Bandoneon_Page%20174-175.pdf), "Cadencia" / "Cadence"
+- [Pages 181](https://github.com/Bandolorian/Metodo-Moderno-para-Bandoneon/blob/main/Transcribed%20Pages/Metodo%20Moderno%20para%20Bandoneon_Page%20181.pdf) and [182](https://github.com/Bandolorian/Metodo-Moderno-para-Bandoneon/blob/main/Transcribed%20Pages/Metodo%20Moderno%20para%20Bandoneon_Page%20182.pdf), "Cielito Mio" by Osvaldo Fresedo
 
 ## Full Book Is Available
 In wanting the book to be usable, I cleaned up all of the pages from the original scan, as best as I could. Inserted the few newly transcribed pages and releasing a complete book. If nothing else, it should be more legible compared to the original scan. As new transcriptions are done, they will be replacing the original scanned pages.
