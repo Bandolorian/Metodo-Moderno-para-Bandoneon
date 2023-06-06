@@ -22,6 +22,8 @@ Starting from 1.x.x and higher, the releases are complete books with all pages.
 ## Project Tools
 MuseScore - https://musescore.org/
 
+Bandoneon Soundfont for MuseScore - http://joergbleymehl.de/en/bandoneon/griffschrift-plugin-fuer-musescore/
+
 ## Example
 From page 49 of the scanned book:
 
